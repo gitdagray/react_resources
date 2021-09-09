@@ -3,11 +3,13 @@
 
 ---
 
+### About the Author
+
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
-✅ Follow Me:
+🚀 Follow Me:
 - [Twitter](https://twitter.com/yesdavidgray)
 - [LinkedIn](https://www.linkedin.com/in/davidagray/)
 - [Blog](https://yesdavidgray.com)
@@ -15,9 +17,9 @@
 
 ---
 
-**Description:**
+### Description:
 
-📺 [YouTube Tutorial]() for this repository.
+📺 [YouTube Tutorial](https://youtu.be/RVFAyFWO4go) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the 9 hour Youtube tutorial.   
 
@@ -55,6 +57,8 @@
 - [ReactJS Official site and docs](https://reactjs.org/)
 - [React Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 - [React Jobs](https://www.ziprecruiter.com/candidate/search?search=react&location=)
+
+---
 
 ### Source Code 
 - 🔗 [Chapter 4](https://github.com/gitdagray/react_styling_components)
