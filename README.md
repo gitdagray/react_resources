@@ -3,7 +3,9 @@
 
 ---
 
-### About the Author
+### Author Links
+
+👋 Hello, I'm Dave Gray. 
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
@@ -17,7 +19,7 @@
 
 ---
 
-### Description:
+### Description
 
 📺 [YouTube Tutorial](https://youtu.be/RVFAyFWO4go) for this repository.
 
@@ -53,7 +55,7 @@
 
 ---
 
-### References:
+### References
 - [ReactJS Official site and docs](https://reactjs.org/)
 - [React Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 - [React Jobs](https://www.ziprecruiter.com/candidate/search?search=react&location=)
