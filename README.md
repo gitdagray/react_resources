@@ -7,13 +7,19 @@
 
 🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
+✅ Follow Me:
+- [Twitter](https://twitter.com/yesdavidgray)
+- [LinkedIn](https://www.linkedin.com/in/davidagray/)
+- [Blog](https://yesdavidgray.com)
+- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+
 ---
 
 **Description:**
 
 📺 [YouTube Tutorial]() for this repository.
 
-🚀 This repository shares ALL of the resources shared during the 9 hour Youtube tutorial. The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.  
+🚀 This repository shares ALL of the resources referenced during the 9 hour Youtube tutorial.   
 
 ❗ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
@@ -64,34 +70,3 @@
 - 🔗 [Chapter 20](https://github.com/gitdagray/react_custom_hooks)
 - 🔗 [Chapter 21](https://github.com/gitdagray/react_context)
 - 🔗 [Chapter 22](https://github.com/gitdagray/easy_peasy_redux)
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-✅ Follow Me:
-Twitter: https://twitter.com/yesdavidgray
-LinkedIn: https://www.linkedin.com/in/davidagray/
-Blog: https://yesdavidgray.com
-Reddit: https://www.reddit.com/user/DaveOnEleven
-
