@@ -1,17 +1,21 @@
-# "React JS for Beginners" 
+# "React JS for Beginners"
+
 ## Full Course - 9 hours / 23 chapters
 
 ---
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray. 
+👋 Hello, I'm Dave Gray.
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
+☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
+
 🚀 Follow Me:
+
 - [Twitter](https://twitter.com/yesdavidgray)
 - [LinkedIn](https://www.linkedin.com/in/davidagray/)
 - [Blog](https://yesdavidgray.com)
@@ -23,7 +27,7 @@
 
 📺 [YouTube Tutorial](https://youtu.be/RVFAyFWO4go) for this repository.
 
-🚀 This repository shares ALL of the resources referenced during the 9 hour Youtube tutorial.   
+🚀 This repository shares ALL of the resources referenced during the 9 hour Youtube tutorial.
 
 ❗ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
@@ -35,7 +39,8 @@
 
 ---
 
-### Resources 
+### Resources
+
 - 🔗 [ES7 React JS Snippets Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - 🔗 [React Dev Tools Extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - 🔗 [JSON-Server](https://www.npmjs.com/package/json-server)
@@ -50,19 +55,22 @@
 ---
 
 ### Other Tutorials Referenced
+
 - [Higher Order Functions](https://youtu.be/7BeT6lsudL4)
 - [localStorage](https://youtu.be/zmFDvFwj6-8)
 
 ---
 
 ### References
+
 - [ReactJS Official site and docs](https://reactjs.org/)
-- [React Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+- [React Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>)
 - [React Jobs](https://www.ziprecruiter.com/candidate/search?search=react&location=)
 
 ---
 
-### Source Code 
+### Source Code
+
 - 🔗 [Chapter 4](https://github.com/gitdagray/react_styling_components)
 - 🔗 [Chapter 7](https://github.com/gitdagray/react_lists_keys)
 - 🔗 [Chapter 9](https://github.com/gitdagray/react_controlled_inputs)
