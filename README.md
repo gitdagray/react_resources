@@ -1,6 +1,6 @@
 # "React JS for Beginners"
 
-## Full Course - 9 hours / 23 chapters
+### Full Course - 9 hours / 23 chapters
 
 ---
 
@@ -33,13 +33,13 @@
 
 ---
 
-### Academic Honesty
+### 🎓 Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
 
 ---
 
-### Resources
+### 🧰 Resources
 
 - 🔗 [ES7 React JS Snippets Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - 🔗 [React Dev Tools Extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -54,22 +54,22 @@
 
 ---
 
-### Other Tutorials Referenced
+### 📺 Other Tutorials Referenced
 
-- [Higher Order Functions](https://youtu.be/7BeT6lsudL4)
-- [localStorage](https://youtu.be/zmFDvFwj6-8)
-
----
-
-### References
-
-- [ReactJS Official site and docs](https://reactjs.org/)
-- [React Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>)
-- [React Jobs](https://www.ziprecruiter.com/candidate/search?search=react&location=)
+- 🔗 [Higher Order Functions](https://youtu.be/7BeT6lsudL4)
+- 🔗 [localStorage](https://youtu.be/zmFDvFwj6-8)
 
 ---
 
-### Source Code
+### 📚 References
+
+- 🔗 [ReactJS Official site and docs](https://reactjs.org/)
+- 🔗 [React Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>)
+- 🔗 [React Jobs](https://www.ziprecruiter.com/candidate/search?search=react&location=)
+
+---
+
+### 💻 Source Code
 
 - 🔗 [Chapter 4](https://github.com/gitdagray/react_styling_components)
 - 🔗 [Chapter 7](https://github.com/gitdagray/react_lists_keys)
