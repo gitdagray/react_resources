@@ -80,6 +80,8 @@
 - 🔗 [Chapters 13 & 14](https://github.com/gitdagray/react_fetch_api_data)
 - 🔗 [Chapter 15](https://github.com/gitdagray/react_fetch_data_challenge)
 - 🔗 [Chapters 16, 17 & 18](https://github.com/gitdagray/learn_react_router)
+- 👀 [Chapters 16 & 17 Part 2 - Refactor to React Router v6 tutorial](https://youtu.be/XBRLVRjZ3CQ)
+- 🔗 [Chapters 16 & 17 Part 2 - Source Code](https://github.com/gitdagray/react_router_v6)
 - 🔗 [Chapter 19](https://github.com/gitdagray/react_axios_requests)
 - 🔗 [Chapter 20](https://github.com/gitdagray/react_custom_hooks)
 - 🔗 [Chapter 21](https://github.com/gitdagray/react_context)
